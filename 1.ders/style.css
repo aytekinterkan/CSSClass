@@ -1,0 +1,152 @@
+/*Universal selector*/
+/* 
+* {
+    color:blue;
+    text-align:center;
+} */
+
+/* element selector */
+/* p { 
+    color:red;
+    text-align: center; 
+} */
+/* id-class selector */
+/*  
+#id1 {
+    color:red;
+}
+*/
+/*  
+.large {
+    text-align: center;
+    color:red;
+}
+*/
+/* combinator */
+/* and selector */
+/*  
+p.center.large{
+    color:red;
+}
+*/
+/* or selector - grup selector */
+/*  
+h1, h2 {
+    color:red;
+}
+*/
+/* descendant selector */
+/*  
+div b {
+    color:red;
+}
+*/
+
+/* direct child selector (sadece cocuklar) */
+
+/* div > b {
+    color:red;
+} */
+
+/* background */
+
+/* p {
+    background-color: yellow;
+    opacity:0.3;
+} */
+
+/* p {
+    background:rgba(255, 255, 0, 0.301);
+} */
+
+/* body {
+    color:orange;
+    background-image: url('metaworld\ \(1\).jpeg');
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:75% auto;
+    background-attachment:fixed;
+    margin-bottom:1000px
+} */
+
+/* iki özellik birbiriinn aynıdır */
+/* body {
+    background-color:red;
+    background-image:url('metaworld\ \(1\).jpeg');
+    background-repeat : no-repeat;
+    background-position: right top;
+
+}
+body {
+    background: red url('metaworld\ \(1\).jpeg') no-repeat 
+     right top;
+} */
+
+/* borders */
+
+/* p {
+    border-style:solid;
+    width:300px
+}
+h1 {
+    border-style:dotted;
+}
+h2 {
+    border-style:double; 
+}*/
+
+/* p {
+    border-style: solid;
+    border-width: 2px 4px 6px 8px;
+    border-color: red
+} */
+
+/* h1 {
+    border-style:double;
+    border-width:medium;
+    border-color:rgb(2, 0, 128);
+} */
+/* 
+h1 {
+    border-style:solid;
+    border-width:4px;
+    border-color: red green blue yellow;
+}  */
+
+/* p {
+    border-top-style:dotted;
+    border-right-style:solid;
+    border-bottom-style:dotted;
+    border-left-style:solid;
+
+} */
+/* p {
+    border: 10px solid red;
+    border-radius: 50%
+} */
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
